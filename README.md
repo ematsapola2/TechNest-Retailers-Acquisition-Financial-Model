@@ -4,9 +4,16 @@
 This project explain and discusses the an M&A scenario where Big Box Retails aims to acquire TechNest Retailers, and potentially acquire the business.
 
 ## Company Profile
-Best Buys is one of the largest's specialty consumer electronics retailer. It is an American multinational consumer electronics retailer.
-Best Buy sells consumer electronics and a variety of related merchandise, including software, video games, music, mobile phones, digital cameras, car stereos, and video cameras, in addition to home appliances (washing machines, dryers, and refrigerators).
+TechNest Retailers is a leading U.S.-based electronics and appliance retailer that has been serving customers for over five decades. Founded in 1966, TechMart has grown from a small regional electronics store to a national retail powerhouse with over 1,144 locations across the United States. The company specializes in offering a wide range of consumer electronics, home appliances, and personal technology solutions, making it a go-to destination for tech enthusiasts and everyday consumers alike.
 
+TechNest Retailers prides itself on providing exceptional customer service, competitive pricing, and an expansive selection of top-tier electronics brands. The company has successfully adapted to the evolving retail landscape by incorporating an omnichannel retail strategy, enabling customers to shop seamlessly online or in-store. In recent years, TechNest Retailers has invested heavily in e-commerce and digital transformation initiatives to meet the growing demand for online shopping and to enhance customer convenience through faster delivery and personalized shopping experiences.
+
+With a strong brand presence and a loyal customer base, TechMart has reported consistent revenue growth and increased profitability. The company’s revenue has reached $51.3 billion, with its EBITDA sitting at $3.3 billion. TechNest Retailers's market position has made it a dominant player in the electronics retail industry, maintaining its competitive edge through strategic partnerships, a broad product range, and a commitment to innovation.
+
+Financial Health and Growth Potential:
+Over the next five years, TechMart is projected to see its revenue grow to $83.36 billion, driven by enhanced operational efficiency and an expanding customer base. The company’s profitability metrics, such as EBITDA and Net Income, are forecasted to grow significantly, signaling strong financial health and growth potential. With low levels of debt and a stable interest expense of just $25 million annually, TechNest Retailers has positioned itself as an attractive merger and acquisition (M&A) candidate for any company looking to expand its market share in the electronics retail space.
+
+TechNest Retailers is an ideal company for any firm looking to merge with a well-established retailer that has a robust infrastructure, a proven business model, and significant growth potential in the evolving world of consumer technology and e-commerce.
 
 ## Financial Forecasting
 My plan for this project is to build a financial forecast for the next 5 years starting from the year 2022, building a 5 year revenue and expense for Best Buy using a simple income statement model in Excel.
