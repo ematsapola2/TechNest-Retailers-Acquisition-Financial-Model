@@ -1,7 +1,7 @@
-# Best-Buy-Acquisition-Financial-Model -  Investment Banking Simulation
+# TechNest Retailers-Acquisition-Financial-Model -  Investment Banking Simulation
 
 ## Project Overview
-This project explain and discusses the an M&A scenario where Big Box Retails aims to acquire Best Buy, and potentially acquire the business.
+This project explain and discusses the an M&A scenario where Big Box Retails aims to acquire TechNest Retailers, and potentially acquire the business.
 
 ## Company Profile
 Best Buys is one of the largest's specialty consumer electronics retailer. It is an American multinational consumer electronics retailer.
