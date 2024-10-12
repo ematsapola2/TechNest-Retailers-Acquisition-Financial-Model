@@ -16,7 +16,7 @@ Over the next five years, TechMart is projected to see its revenue grow to $83.3
 TechNest Retailers is an ideal company for any firm looking to merge with a well-established retailer that has a robust infrastructure, a proven business model, and significant growth potential in the evolving world of consumer technology and e-commerce.
 
 ## Financial Forecasting
-My plan for this project is to build a financial forecast for the next 5 years starting from the year 2022, building a 5 year revenue and expense for Best Buy using a simple income statement model in Excel.
+My plan for this project is to build a financial forecast for the next 5 years starting from the year 2024, building a 5 year revenue and expense for Best Buy using a simple income statement model in Excel.
 
 
 ## Skills Demonstrated
