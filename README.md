@@ -60,6 +60,13 @@ Why It’s Variable: The decline in COGS from 77% to 76% indicates anticipated i
 
 Why It’s Variable: The reduction in SG&A expenses from 16.5% to 16% showcases the company’s commitment to optimizing operational spending. This may involve strategic cost-cutting and enhanced marketing effectiveness to improve overall productivity.
 
+4. Tax Rate:
+
+   Here’s the general formula for calculating the tax rate:
+
+##### = Taxes Paid/ Pre-Tax Income (or EBT)
+
+
 
   
 ## Findings:
