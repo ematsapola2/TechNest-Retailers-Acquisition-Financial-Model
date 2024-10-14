@@ -82,7 +82,8 @@ The year-over-year growth rates are substantial, reflecting strong market positi
 2. Gross Profit and Margin Analysis
 
 Gross Profit: Starting at $12.43 billion and growing to $20.01 billion over five years.
-Gross Margin: The gross margin fluctuates slightly, from 24.0% in Year 1 to 24.0% in Year 5, indicating stable operational efficiency in managing the cost of goods sold (COGS).
+
+Gross Margin: The gross margin fluctuates slightly, from 24.0% in Year 1, dropping slightly, then coming back to 24.0% in Year 5, indicating stable operational efficiency in managing the cost of goods sold (COGS).
 
 
 3. EBITDA Analysis
