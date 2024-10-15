@@ -1,14 +1,14 @@
 # TechNest Retailers-Acquisition-Financial-Model -  Investment Banking Simulation
 
 ## Project Overview
-This project explain and discusses an M&A scenario where Big Tech Retails aims to acquire TechNest Retailers, and potentially acquire the business.
+This project explains and discusses an M&A scenario where Big Tech Retails aims to acquire TechNest Retailers, a fictional company I created to practice M&A financial modelling. As part of an investment banking simulation, I took on the role of an M&A analyst to develop a financial model for the potential acquisition. The financial statements used are fictitious, and I designed the company specifically to apply my financial modeling skills and knowledge through this project.
+
 
 ## Company Profile
 TechNest Retailers is a leading U.S.-based electronics and appliance retailer that has been serving customers for over five decades. Founded in 1966, TechNest Retailers has grown from a small regional electronics store to a national retail powerhouse with over 1,100 locations across the United States. The company specializes in offering a wide range of consumer electronics, home appliances, and personal technology solutions, making it a go-to destination for tech enthusiasts and everyday consumers alike.
 
-TechNest Retailers prides itself on providing exceptional customer service, competitive pricing, and an expansive selection of top-tier electronics brands. The company has successfully adapted to the evolving retail landscape by incorporating an omnichannel retail strategy, enabling customers to shop seamlessly online or in-store. In recent years, TechNest Retailers has invested heavily in e-commerce and digital transformation initiatives to meet the growing demand for online shopping and to enhance customer convenience through faster delivery and personalized shopping experiences.
+TechNest Retailers prides itself on providing exceptional customer service, competitive pricing, and an expansive selection of top-tier electronics brands. The company has successfully adapted to the evolving retail landscape by incorporating an omnichannel retail strategy, enabling customers to shop seamlessly online or in-store. In recent years, TechNest Retailers has invested heavily in e-commerce and digital transformation initiatives, to meet the growing demand for online shopping and to enhance customer convenience through faster delivery and personalized shopping experiences.
 
-With a strong brand presence and a loyal customer base, TechNest Retailers has reported consistent revenue growth and increased profitability. The company’s revenue has reached $51.3 billion, with its EBITDA sitting at $3.3 billion. TechNest Retailers's market position has made it a dominant player in the electronics retail industry, maintaining its competitive edge through strategic partnerships, a broad product range, and a commitment to innovation.
 
 #### Financial Health and Growth Potential:
 Over the next five years, TechNest Retailers is projected to see its revenue grow to $83.36 billion, driven by enhanced operational efficiency and an expanding customer base. The company’s profitability metrics, such as EBITDA and Net Income, are forecasted to grow significantly, signaling strong financial health and growth potential. With low levels of debt and a stable interest expense of just $25 million annually, TechNest Retailers has positioned itself as an attractive merger and acquisition (M&A) candidate for any company looking to expand its market share in the electronics retail space.
