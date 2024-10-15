@@ -79,7 +79,7 @@ The tax rate, applied consistently at 20% across the forecast period, plays a ke
 ### Financial Overview
 1. Revenue Trends
 
-TechNest Retailers's revenue is projected to increase from $51.76 billion in Year 1 to $83.36 billion by Year 5, indicating a consistent growth trend.
+TechNest Retailers' revenue is projected to increase from $51.76 billion in Year 1 to $83.36 billion by Year 5, indicating a consistent growth trend.
 The year-over-year growth rates are substantial, reflecting strong market positioning and operational effectiveness.
 
 
