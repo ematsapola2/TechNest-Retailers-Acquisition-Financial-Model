@@ -16,18 +16,21 @@ Over the next five years, TechNest Retailers is projected to see its revenue gro
 TechNest Retailers is an ideal company for any firm looking to merge with a well-established retailer that has a robust infrastructure, a proven business model, and significant growth potential in the evolving world of consumer technology and e-commerce.
 
 ## Financial Forecasting
-My plan for this project is to build a financial forecast for the next 5 years starting from the year 2024, building a 5 year revenue and expense for TechNest Retailers using a simple income statement model in Excel.
+My plan for this project is to create a financial forecast for the next 5 years, starting in 2024. I'll build a 5-year revenue and expense model for TechNest Retailers using a simple income statement in Excel.
 
 
 ## Skills Demonstrated
 The following skills listed below are the skills that are demonstrated to complete the project:
 - Financial modelling (Excel)
 - M&A Strategy
-- Company Valuation
+- Forecasting
+- Company Research
 
 
+## Income statement Drivers
+These are the key factors or variables that have a significant impact on the revenue, expenses, and overall profitability of a company, as reflected in the income statement. These drivers help determine how much income a company will generate and what costs will be incurred.
 
-## Understanding Financial Forecasting: Constant vs. Variable Line Items
+### Understanding Financial Forecasting: Constant vs. Variable Line Items
 
 In financial forecasting, determining which line items remain constant and which are projected to change is crucial for accurate modeling. This differentiation hinges on the company's operational strategies, market conditions, and efficiency expectations. Here’s an insightful look into this process:
 
