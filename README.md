@@ -83,7 +83,7 @@ The year-over-year growth rates are substantial, reflecting strong market positi
 
 Gross Profit: Starting at $12.43 billion and growing to $20.01 billion over five years.
 
-Gross Margin: The gross margin stays mostly stable, starting at 24.0% in Year 1, dipping a little, and then returning to 24.0% by Year 5. This suggests the company has been consistent in managing its cost of goods sold (COGS) efficiently
+Gross Margin: The gross margin stays mostly stable, starting at 24.0% in Year 1, dipping a little, and then returning to 24.0% by Year 5. This suggests the company's ability to manage its cost of goods sold (COGS) efficiently
 
 
 3. EBITDA Analysis
