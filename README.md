@@ -13,7 +13,6 @@ TechNest Retailers prides itself on providing exceptional customer service, comp
 #### Financial Health and Growth Potential:
 Over the next five years, TechNest Retailers is projected to see its revenue grow to $83.36 billion, driven by enhanced operational efficiency and an expanding customer base. The company’s profitability metrics, such as EBITDA and Net Income, are forecasted to grow significantly, signaling strong financial health and growth potential. With low levels of debt and a stable interest expense of just $25 million annually, TechNest Retailers has positioned itself as an attractive merger and acquisition (M&A) candidate for any company looking to expand its market share in the electronics retail space.
 
-TechNest Retailers is an ideal company for any firm looking to merge with a well-established retailer that has a robust infrastructure, a proven business model, and significant growth potential in the evolving world of consumer technology and e-commerce.
 
 ## Financial Forecasting
 My plan for this project is to create a financial forecast for the next 5 years, starting in 2024. I'll build a 5-year revenue and expense model for TechNest Retailers using a simple income statement in Excel.
