@@ -1,7 +1,7 @@
 # TechNest Retailers-Acquisition-Financial-Model -  Investment Banking Simulation
 
 ## Project Overview
-This project explains and discusses an M&A scenario where Big Tech Retails aims to acquire TechNest Retailers, a fictional company I created to practice M&A financial modelling. As part of an investment banking simulation, I took on the role of an M&A analyst to develop a financial model for the potential acquisition. The financial statements used are fictitious, and I designed the company specifically to apply my financial modeling skills and knowledge through this project.
+This project explains and discusses an M&A scenario where Big Tech Retails aims to acquire TechNest Retailers, a fictional company I created to practice M&A financial forecasting and modelling. As part of an investment banking simulation, I took on the role of an M&A analyst to develop a financial model for the potential acquisition. The financial statements used are fictitious, and I designed the company specifically to apply my financial forecasting and modeling skills and knowledge through this project.
 
 
 ## Company Profile
