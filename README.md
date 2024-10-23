@@ -66,9 +66,6 @@ The reduction in SG&A expenses from 16.5% to 16% showcases the company’s commi
    
 The tax rate, applied consistently at 20% across the forecast period, plays a key role in determining the company's net income after taxes. This rate reflects the percentage of pre-tax income (or earnings before taxes, EBT) that is paid to the government. Maintaining a stable tax rate allows for a clearer projection of future cash flows and profitability.
 
-   Here’s the general formula for calculating the tax rate:
-
-##### = Taxes Paid/ Pre-Tax Income (or EBT)
 
 
 
