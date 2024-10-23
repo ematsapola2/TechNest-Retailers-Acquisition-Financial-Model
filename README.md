@@ -99,6 +99,8 @@ Net Income: Grows from $2.38 billion to $4.23 billion, reflecting profitability 
 
 
 
+
+
 ### Considerations for Merger and Acquisition
 
 Strengths of TechNest Retailers for M&A:
